@@ -27,5 +27,5 @@ of. I cannot imagine if I was doing this on my own. I am pretty sure I would hav
 people around me.
 
 I have learned more in the past 5 weeks about both coding and myself than I have in the past two years. And that is really,
-really fun. I will leave you with a paraphrase from one of my mentors: "If you like using your brain, you will like coding".
- So if you like using your brain, coding is probably for you!
+really fun. I will leave you with a paraphrased quote from one of my mentors: "If you like using your brain, you will like coding".
+ So if you like using your brain, coding is probably for you and I encourage you to keep on keeping on!
