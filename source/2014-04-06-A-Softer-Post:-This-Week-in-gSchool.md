@@ -1,6 +1,6 @@
 ---
-title: A Softer Post- This week in gSchool
-date: 2014-04-06
+title: A Softer Post...This week in gSchool
+date: 2014-04-06 UTC
 ---
 
 This week in gSchool we were working on a URL shortener, similar to bit.ly. We paired for a lot
