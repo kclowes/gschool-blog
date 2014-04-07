@@ -1,5 +1,5 @@
 ---
-title: A Softer Post: This week in gSchool
+title: A Softer Post- This week in gSchool
 date: 2014-04-06
 ---
 
