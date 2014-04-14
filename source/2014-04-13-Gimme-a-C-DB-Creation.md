@@ -1,5 +1,5 @@
 ---
-title: Databases Part 1: Gimme a 'C'! Creating a (very) Simple Task Management App
+title: Databases Part 1--Gimme a 'C'! Creating a (very) Simple Task Management App
 date: 2014-04-13 22:12 UTC
 ---
 
