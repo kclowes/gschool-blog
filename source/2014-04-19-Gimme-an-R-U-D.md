@@ -34,12 +34,12 @@ fills in a form with what they would like to update that particular task to. Whe
 changes, the app will take the id from the URL, and update the item id in the database. The code in the app looks like this:
 
 ```
-get '/task/:id/edit' do
+  get '/task/:id/edit' do
     erb :edit_task, :locals => {:id => params[:id]}
   end
 ```
 ```
-put '/task/:id' do
+  put '/task/:id' do
     id = params[:id].to_i
     tasks_table.update({:id => id, :task => params[:edited_task]})
     redirect '/'
@@ -96,7 +96,6 @@ looks like this:
 Disclaimer to anyone looking at this post and the last:
 
 I am almost certain that there are better, more efficient ways to do everything that I have just done in this blog post.
-I am also pretty certain that I will look back on this post someday and cringe. That being said, this is the best I can
-do in this moment, and I simply do not know how to do it any other way. These two posts are about writing shitty code before
-I can write pretty code. Enjoy!
+I am also pretty certain that I will look back on this post someday and cringe. That being said, these two posts are
+about me writing shitty code before I can write (while learning to write) pretty code. Thanks for bearing with me!
 
