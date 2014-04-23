@@ -27,9 +27,9 @@ as well in order to use it for the URL link. The snippet of code from index.erb 
 </ul>
 ```
 
-Then, in the app.rb folder, when a get request is issued to '/task/:id' I made a new erb file called show_task that will
+Then, in the app.rb folder, when a get request is issued to '/task/:id' I made a new erb file called show-task that will
 show each task individually. A user can edit (update) or delete a task from this view. A link is provided to edit the task and
-to delete the task. When the 'edit task' link is clicked, a get request is issued to the edit_task.erb view, and the user
+to delete the task. When the 'edit task' link is clicked, a get request is issued to the edit-task.erb view, and the user
 fills in a form with what they would like to update that particular task to. When the button is clicked to submit the
 changes, the app will take the id from the URL, and update the item id in the database. The code in the app looks like this:
 
