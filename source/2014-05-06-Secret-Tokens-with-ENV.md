@@ -1,5 +1,5 @@
 ---
-title: Keeping Secrets Secret
+title: Keeping Secrets Secret Using dotenv
 date: 2014-05-06 10:06 UTC
 ---
 
