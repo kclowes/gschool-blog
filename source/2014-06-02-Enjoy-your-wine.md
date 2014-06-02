@@ -45,5 +45,4 @@ that I thought I might share. Here it is:
 
       *Aftertaste: How long does it last? Are you happy about that?
 
-
-    Cheers!
+  Cheers!
