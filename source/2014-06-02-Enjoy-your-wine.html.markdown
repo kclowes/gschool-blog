@@ -7,15 +7,15 @@ I cannot believe it is already June. May went flying by in a flurry of busyness.
 is one where you can keep track of the wine you drank. As a sneak peek, I wrote a quick intro to wine tasting yesterday
 that I thought I might share. Here it is:
 
-##You should like the wine you drink.
+You should like the wine you drink.
 
-##Tasting is the only way to know what you like.
+Tasting is the only way to know what you like.
 
-###Swirl your wine
+Swirl your wine
 
      Swirling allows oxygen to get into your wine, which will release the chemicals that make your wine fragrant.
 
-###Smell your wine
+Smell your wine
 
     This is the most important step. Go ahead, smell it again. What did you smell? What about the third time? Record
       this
@@ -25,7 +25,7 @@ that I thought I might share. Here it is:
       classified
       a wine's smell as 'new garden hose'. If he can say that, you can too.
 
-###Taste it
+Taste it
 
     This is easily the best step. You have 5,000 taste buds, what are they telling you? Think about:
 
