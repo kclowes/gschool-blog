@@ -1,5 +1,5 @@
 ---
-title: Enjoy Your Wine!
+title: Enjoy Your Wine
 date: 2014-06-02 22:12 UTC
 ---
 
