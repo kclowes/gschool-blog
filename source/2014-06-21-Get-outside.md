@@ -1,6 +1,6 @@
 ---
 title: Get Outside!
-date: 2014-06-22 14:34 UTC
+date: 2014-06-22 22:12 UTC
 ---
 
 All right, it has been quite a while since I last posted. Demo days, sister graduating, and some amount of prioritizing other things
