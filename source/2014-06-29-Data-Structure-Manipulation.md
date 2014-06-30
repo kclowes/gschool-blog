@@ -1,5 +1,5 @@
 ---
-title: Data Structure Manipulation
+title: A Little Sunday Afternoon Data Structure Manipulation
 date: 2014-06-29 22:12 UTC
 ---
 
